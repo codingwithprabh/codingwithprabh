@@ -66,19 +66,19 @@ A console-based banking application developed using C.
 
 **Concepts:** Functions, Conditional Statements, Loops, File Handling
 
-### 🎓 CGPA Calculator
+### 🎯 [Number Guessing Game](https://github.com/codingwithprabh/number-guessing-game-c)
 
-A program to calculate SGPA and CGPA based on academic credits.
+A simple, interactive number guessing game developed in C where players try to guess a randomly generated number using hints provided by the program.
 
-**Concepts:** Arrays, Functions, Mathematical Operations
+**Concepts:** Loops, Conditional Statements, Random Number Generation, User Input, Input Validation
 
-### 🧠 Quiz Game
+### 🧠 [Quiz Game](https://github.com/codingwithprabh/c-quiz-game)
 
 An interactive quiz application with multiple-choice questions.
 
 **Concepts:** Loops, Conditions, Arrays, Score Calculation
 
-> 📌 Project repositories and source code will be linked here as they become available.
+> 📌 Other projects repositories and source code will be linked here as they become available.
 
 ---
 
